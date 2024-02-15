@@ -1,5 +1,4 @@
 
-EXPOSE 3000
 
 # syntax=docker/dockerfile:1
 
